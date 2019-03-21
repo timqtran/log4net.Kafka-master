@@ -1,6 +1,6 @@
 log4net.Kafka
 ==========
-log4net.Kafka provide kafka appender, also provide logstash json_event PatternLayout.
+log4net.Kafka provide kafka appender, also provide logstash json_event PatternLayout with LogingEvent's properties
 ## Getting Started
 
 ### Step 1: Install log4net.Kafka package
