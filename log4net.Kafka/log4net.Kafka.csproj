@@ -8,7 +8,7 @@
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>log4net.Kafka</RootNamespace>
-    <AssemblyName>log4net.Kafka</AssemblyName>
+    <AssemblyName>log4net.Kafka.LogtashLayout</AssemblyName>
     <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <TargetFrameworkProfile />
